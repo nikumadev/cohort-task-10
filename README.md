@@ -8,6 +8,8 @@ A simple and responsive card site built using `HTML` , `CSS` and `SCSS`.
 
 ## 🎥 Video Demo
 
+Card Site Video Demo Recorded Using Windows In-built Screen Recorder.
+
 https://github.com/nikumadev/cohort-task-10/assets/demo.mp4
 
 ## 🧠 What I Learned
