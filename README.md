@@ -3,8 +3,6 @@
 A **clean and responsive card design** built using **HTML, SCSS, and CSS3**.  
 I created this mini project while learning **SCSS** to explore nesting, variables, and mixins — and to understand how SCSS can make CSS cleaner and more modular.
 
----
-
 ## 💻 Preview
 
 ### 🖼️ Image Preview
@@ -15,15 +13,11 @@ I created this mini project while learning **SCSS** to explore nesting, variable
 
 https://github.com/nikumadev/card-task-10/assets/demo.mp4
 
----
-
 ## 🧠 What I Learned
 
 - Organizing SCSS with partials (`_variables.scss`, `_mixins.scss`, `_base.scss`, etc.)
 - Using **variables** and **mixins** for reusability
 - Structuring **nested selectors** for better readability
-
----
 
 ## 🚀 Technologies Used
 
@@ -31,4 +25,19 @@ https://github.com/nikumadev/card-task-10/assets/demo.mp4
 - **SCSS (Sass)**
 - **CSS3**
 
+## 🪄 How to Run Locally
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/nikumadev/cohort-task-10.git
+
+# 2. Navigate into the folder
+cd cohort-task-10
+
+# 3. Compile SCSS (if not already compiled)
+sass style.scss style.css
+
+# 4. Open index.html in your browser
+
 ---
+```
