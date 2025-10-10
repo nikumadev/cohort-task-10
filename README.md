@@ -9,7 +9,7 @@ I created this mini project while learning **SCSS** to explore nesting, variable
 
 ### 🖼️ Image Preview
 
-![Card Site]('./assets/output.png')
+![Card Site](./assets/preview.png)
 
 ### 🎥 Video Demo
 
